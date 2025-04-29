@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Pizza Margherita",
+    "category": "Pizza",
+    "price": 10.0
+  },
+  {
+    "name": "Cheeseburger",
+    "category": "Burger",
+    "price": 8.5
+  },
+  {
+    "name": "Sushi Box",
+    "category": "Sushi",
+    "price": 12.0
+  },
+  {
+    "name": "Vegan Salad",
+    "category": "Salad",
+    "price": 7.0
+  }
+]

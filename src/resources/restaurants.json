@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Pizza House",
+    "category": "Pizza",
+    "products": ["Pizza Margherita"]
+  },
+  {
+    "name": "Burger King",
+    "category": "Burger",
+    "products": ["Cheeseburger"]
+  },
+  {
+    "name": "Sushi Express",
+    "category": "Sushi",
+    "products": ["Sushi Box"]
+  },
+  {
+    "name": "Healthy Bites",
+    "category": "Salad",
+    "products": ["Vegan Salad"]
+  }
+]
